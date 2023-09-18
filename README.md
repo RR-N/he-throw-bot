@@ -1,5 +1,5 @@
 # he-throw-bot
-This is a simple discord bot that posts a video compilation of a cockatiel throw things on the ground once an hour.
+This is a simple discord bot that posts a video compilation of a cockatiel throwing things on the ground once an hour.
 
 ## Why?
 Someone asked me for it.
