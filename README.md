@@ -11,4 +11,4 @@ python main.py
 ```
 
 ## What is a pip? Why is there a python?
-> Pip is an orphan. Why *wouldn't* there be a python?
+Pip is an orphan. Why *wouldn't* there be a python?
